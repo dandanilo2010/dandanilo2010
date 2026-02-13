@@ -86,12 +86,10 @@ No frontend, desenvolvo aplicações com Angular, criando interfaces modernas e 
 ## 📫 Contato
 
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/augusto-danilo/" target="_blank">
+  <a href="https://www.linkedin.com/in/danilooaugusto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/daniloaa/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+ 
 </div>
 
 ---
